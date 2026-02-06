@@ -1,6 +1,6 @@
 An Operator-Based Formal System for Arithmetic State Transitions
 
-Autor: enteryourname@seznam.cz
+Autor: enteryourname101@seznam.cz
 
 Abstract
 
